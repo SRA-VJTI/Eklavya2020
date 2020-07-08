@@ -1,0 +1,15 @@
+# Eklavya2020
+
+* [Moodylyser](https://github.com/hashmis79/Moodylyser)
+* [Labyrinth Simulation](https://github.com/Bhumika-Kothwal/Eklavya-2020--Slayers.git)
+* [Obstacle Avoidance and Goal to Goal Navigation](https://github.com/Git-Saurabh5/Team-Kerbecks-and-PS)
+* [Gesture controlled mouse using Opencv](https://github.com/kkothari2001/Gesture-Mouse-using-OpenCV)
+* [Pick and Place Bot](https://github.com/Tejal-19/simbotix)
+* [Human Pose Estimation and Game](https://github.com/SAtacker/IMITECIO)
+* [Multi-class Vehicle Classification](https://github.com/akshayb80/Multi-Class-Vehicle-Classification)
+* [Drone Simulation](https://github.com/pkjagesia/Eklavya20-Drone)
+* [Automated Parking System](https://github.com/kart1802/Automated-Parking-System.git)
+* [Air Mouse](https://github.com/gautam-dev-maker/Air-Mouse)
+* [Micromouse](https://github.com/dushantpanchbhai/sra.git)
+* [Catch Practice Bot](https://github.com/dhairyashah1/Eklavya20-CatchPracticeBot)
+* [Quadruped Simulation](https://github.com/chaitravi-ce/Eklavya-QuadrupedMotionSimulation.git)
