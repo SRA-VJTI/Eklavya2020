@@ -123,7 +123,9 @@
 ***
 ## [Quadruped Simulation](https://github.com/chaitravi-ce/Eklavya-QuadrupedMotionSimulation.git)
   A four legged robot simulated in Coppeliasim whose motion is based on Creep Gait Algorithm and it uses the knowledge of Kinematics to reach the desired location
+
   ![quadrupedDemo](https://github.com/SRA-VJTI/Eklavya2020/blob/master/Eklavya/assets2020/gifs/quadruped.gif)
+
   #### Contributors
   |[Chaitravi Chalke](https://github.com/chaitravi-ce)|[Sakshi Chikshe](https://github.com/Sakshi-0311)|
   |---|---|
